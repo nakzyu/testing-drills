@@ -141,6 +141,6 @@ diffrent mindset from unit testing
   - better: <code>getByRole</code>
 
 * Roles documentation: https://www.w3.org/TR/wai-aria/#role_definitions
-  - some elements have built-in roles: <code>button, a</button>
+  - some elements have built-in roles: <code>button, a</code>
 * Can't find an element like a screen reader would?
   - Then your app isn't friendly to screen readers
